@@ -1,4 +1,4 @@
-data:[{
+data:[
     "Website_Blocker":[
     {
     "newest_version":1.0
@@ -6,4 +6,4 @@ data:[{
     "dl_url":"https://github.com/stack690/Website_Blocker/releases/download/v1.0.0/Website_Blocker.zip" 
     }
     ]
-}]
+]
